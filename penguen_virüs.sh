@@ -24,6 +24,6 @@ max=10000000
 for (( i=2; i <= $max; i++))
 do
 echo -e "\e[92m\e[5m Hacked Yaman Efkar"
-termux-open-url https://www.google.com/search?q=YamanEfkar
+termux-open-url https://www.chip.com.tr/
 done
 bash instagram_hack.sh
